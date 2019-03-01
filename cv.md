@@ -10,3 +10,7 @@ Summary
 5. Examples of code: (https://github.com/Ewelai)
 
 6. Experiense: Rolling Scopes School, Training EPAM on the Front end, code on Github, HTMLacademy courses, Codecademy courses
+
+7. Education: School Rolling Scopes, courses HTMLacademy, lecture HTMLacademy, books about HTML/CSS/JS, content manager on fan-naruto.ru
+
+8. English level: Pre-Intermediate/Intermediate. Also I took ESL Courses, practice in Italy - in amount 3 years, practice in English group - 3 month
